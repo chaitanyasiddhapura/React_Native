@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# React Native
+android/app/build/
+android/build/
+android/.gradle/
+ios/build/
+ios/Pods/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Gradle
+.gradle/
