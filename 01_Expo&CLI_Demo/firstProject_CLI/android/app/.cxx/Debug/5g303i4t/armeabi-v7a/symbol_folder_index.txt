@@ -1,0 +1,1 @@
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/build/intermediates/cxx/Debug/5g303i4t/obj/armeabi-v7a

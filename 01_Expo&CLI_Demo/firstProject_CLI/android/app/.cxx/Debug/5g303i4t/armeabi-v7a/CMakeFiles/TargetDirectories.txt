@@ -1,0 +1,6 @@
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/.cxx/Debug/5g303i4t/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/.cxx/Debug/5g303i4t/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/.cxx/Debug/5g303i4t/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/.cxx/Debug/5g303i4t/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/.cxx/Debug/5g303i4t/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/android/app/.cxx/Debug/5g303i4t/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir

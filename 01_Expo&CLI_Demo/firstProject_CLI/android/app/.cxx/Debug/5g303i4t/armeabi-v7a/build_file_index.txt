@@ -1,0 +1,2 @@
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/Users/vijay/Downloads/Chaitanya/React_Native/01_Expo&CLI_Demo/firstProject_CLI/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726859192281",
+    "project_id": "deeplinking-63cc9",
+    "storage_bucket": "deeplinking-63cc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726859192281:android:530ba56ee2377d6b256bc8",
+        "android_client_info": {
+          "package_name": "com.deeplinkingdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDRNLnNBrASqVRJRZ6aCXU8qgDbq9ZTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

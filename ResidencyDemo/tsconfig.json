@@ -1,0 +1,15 @@
+{
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+    "types": ["jest"],
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["src/*"],
+      "@components/*": ["src/components/*"],
+      "@utils/*": ["src/utils/*"],
+      "@assets/*": ["src/assets/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", "src/navigation/BottomTabComponents/BottomTabs.js"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}

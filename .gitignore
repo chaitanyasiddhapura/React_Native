@@ -1,0 +1,23 @@
+# OSX
+.DS_Store
+
+# node_modules
+node_modules/
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+
+# React Native
+.metro-cache
+.expo/
+.expo-shared/
+
+# Other
+*.log

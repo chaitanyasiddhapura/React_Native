@@ -1,2 +1,2 @@
 # React_Native
-In this repository i will include the react native tutorial 
+In this repository, I will include React Native concepts from basic to advanced that I have learned over time.
